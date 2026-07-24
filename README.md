@@ -1,177 +1,263 @@
-# Hi, I'm Anu A 👋
+<h1 align="center">Hi 👋, I'm Anu A</h1>
 
-### AI-Powered Python Full Stack Developer
+<h3 align="center">
+MCA Student | Software Developer | AI & Machine Learning Enthusiast | Open Source Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Django+%7C+FastAPI+%7C+React;Building+Smart+Real-World+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Software+Developer;Python+%7C+Java+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Learning+Data+Structures+%26+System+Design;Always+Learning+Something+New..." />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a passionate developer focused on building intelligent, scalable, and user-centric applications using Python, AI, and modern web technologies.
+🎓 MCA Student at **Alliance University** (CGPA: **8.2**)
 
-My work combines:
+💻 Passionate about Software Development, AI, and Machine Learning.
 
-* ⚡ Full Stack Development
-* 🤖 AI & Machine Learning
-* ☁️ Cloud & Automation
-* 📊 Data-Driven Solutions
-* 🌱 Real-World Problem Solving
+🌱 Interested in
 
-I enjoy transforming ideas into functional products that create meaningful impact.
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Full Stack Development
+- Data Structures & Algorithms
+- Cloud & Modern Software Engineering
 
----
-
-## 🧠 Current Focus
-
-* Building AI-powered productivity systems
-* Exploring Generative AI workflows
-* Machine Learning model development
-* Backend engineering with FastAPI & Django
-* Full Stack application architecture
-* Cloud deployment workflows
+🎯 My goal is to build scalable software that solves real-world problems and contributes to impactful products.
 
 ---
 
-## 🛠️ Tech Stack
+# 💡 Currently Working On
 
-### Languages
+- 🤖 AI Agent Applications using Google's ADK
+- 🧠 Machine Learning Projects
+- 🌍 Green Technology Solutions
+- 📊 Data Analysis & Visualization
+- ⚡ Python Backend Development
+- 📚 Improving DSA & System Design
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,php" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js" />
 </p>
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=django,flask,spring,bootstrap" />
 </p>
 
-### Databases & Cloud
+## Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,gcp" />
+
+Python • Pandas • NumPy • Matplotlib • Scikit-Learn
+
 </p>
 
-### Tools & Platforms
+## Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 # 🌟 Featured Projects
 
-## 🌾 AgriNEWS — Agriculture News Feed Platform
+## 🌿 Green Route Travel Recommendation System
 
-> AI-inspired agriculture news platform developed using Django.
+> AI-powered eco-friendly travel recommendation platform.
 
-### Highlights
+### Features
 
-* 📰 Agriculture-focused news management system
-* 👨‍💻 Full Stack Django implementation
-* 📱 Responsive UI using Bootstrap
-* 🗄️ SQLite database integration
-* 🔐 Authentication & content handling
+- 🚗 Sustainable route recommendation
+- 🌍 Distance & emission calculation
+- 📈 Interactive dashboards
+- 🤖 Machine Learning integration
+- ⚡ Streamlit application
 
-### Tech Used
+**Tech Stack**
 
-`Python` `Django` `HTML` `CSS` `Bootstrap` `JavaScript` `SQLite`
-
----
-
-## 🤖 Machine Learning Playground
-
-> Collection of real-world machine learning implementations and experiments.
-
-### Includes
-
-* Regression Algorithms
-* Classification Models
-* Clustering Techniques
-* Data Preprocessing Pipelines
-* Model Evaluation
-* Hyperparameter Tuning
-
-### Tech Used
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+`Python` `Machine Learning` `Streamlit`
 
 ---
 
-## ⚡ AI Productivity & Automation Systems
+## 🌫 AQI Prediction System
 
-> Exploring intelligent workflow automation and AI-enhanced productivity applications.
+> Predict Air Quality Index using Machine Learning.
 
-### Areas Explored
+### Features
 
-* AI task automation
-* Smart workflow systems
-* FastAPI backend architecture
-* AI-assisted scheduling concepts
-* Modern UI interaction patterns
+- Data preprocessing
+- Model training & evaluation
+- AQI prediction
+- Flask deployment
 
-### Tech Used
+**Tech Stack**
 
-`FastAPI` `Python` `React` `Gemini API` `Automation Workflows`
+`Python` `Flask` `Scikit-Learn`
 
 ---
 
-# 📈 GitHub Stats
+## 🤝 Community Resource Sharing System
+
+> Platform to donate and request reusable household resources.
+
+### Features
+
+- Resource donation
+- Resource requests
+- Community engagement
+- CRUD operations
+
+**Tech Stack**
+
+`Java` `Spring Boot` `SQLite`
+
+---
+
+## 🌾 AgriNEWS
+
+Agriculture news platform developed using Django.
+
+### Features
+
+- Authentication
+- News Feed
+- Responsive UI
+- Search
+- Comments
+- Admin Panel
+
+**Tech Stack**
+
+`Python` `Django` `SQLite`
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anu-2024&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu-2024&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anu-2024&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu-2024&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anu-2024&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anu-2024&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 Achievements & Learning
+# 🏆 Certifications
 
-* 🎓 Bachelor of Computer Applications (BCA)
-* 📚 Machine Learning & Data Science Learning Path
-* 🌱 1M1B Green Internship Program
-* 💡 Continuous exploration of AI-powered systems
+- 🤖 Engineer AI Agents with Agent Development Kit (Google)
+- 📊 Data Analysis with Python (IBM)
+- 🌐 Introduction to Front-End Development (Meta)
+- 🗄 Introduction to Databases (Meta)
 
 ---
 
-# 📌 Development Philosophy
+# 📚 Learning Journey
+
+✔ Machine Learning
+
+✔ Artificial Intelligence
+
+✔ Python Development
+
+✔ Java Development
+
+✔ Software Engineering
+
+✔ Data Structures & Algorithms
+
+✔ System Design
+
+✔ Open Source
+
+---
+
+# 💻 Development Philosophy
 
 ```python
-while(alive):
-    learn()
-    build()
-    improve()
-    repeat()
+class Developer:
+
+    def __init__(self):
+        self.skills = []
+        self.projects = []
+
+    def learn(self):
+        self.skills.append("New Skill")
+
+    def build(self):
+        self.projects.append("Real World Project")
+
+    def improve(self):
+        return "Keep Growing"
+
+while True:
+    me.learn()
+    me.build()
+    me.improve()
 ```
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/anu-2024">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="left">
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://github.com/anu-2024">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anu-a-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:connectwithmeanu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Anu_A_2/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/anuanjenappa">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anu-2024&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=anu-2024&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
 
-<p align="center">
-  ⭐ Building the future one project at a time.
-</p>
+---
+
+<h3 align="center">
+💙 "Code. Learn. Build. Repeat."
+</h3>
